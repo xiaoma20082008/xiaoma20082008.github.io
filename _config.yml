@@ -2,10 +2,9 @@
 theme: jekyll-theme-cayman
 title: 逝者如斯夫
 email:
-description: Community Site
+description: 
 baseurl:
 url:
-twitter_username:
 github_username:  xiaoma20082008
 
 # Build settings
